@@ -1,3 +1,3 @@
 # My dev portfolio
 
-Available at [Matija.Cvrk.io](https://travaulta.github.io/matija.cvrk.io/)
+Available at [Portfolio Site](https://mydevfolio-340541231084.northamerica-south1.run.app/)
