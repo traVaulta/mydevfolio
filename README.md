@@ -22,4 +22,4 @@ Available at [Portfolio Site](https://mydevfolio-340541231084.northamerica-south
 >Matija Čvrk,<br>
 >Software Engineer and enthusiast
 >
->Connect: [LinkedIn](https://www.linkedin.com/in/matija-%C4%8Dvrk-1388b3101/)
+>Connect: [LinkedIn](https://www.linkedin.com/in/matijacvrk)

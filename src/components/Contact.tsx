@@ -32,7 +32,7 @@ const Contact = () => {
               variant="outline"
               asChild
             >
-              <a href="https://www.linkedin.com/in/matija-cvrk-1388b3101/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/matijacvrk" target="_blank" rel="noopener noreferrer">
                 <MessageSquare className="mr-2 h-5 w-5" />
                 Connect on LinkedIn
               </a>
